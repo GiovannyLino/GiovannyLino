@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giovannylino&label=Profile%20views&color=0e75b6&style=flat" alt="giovannylino" /> </p>
 
-- 🔭 Estou atualmente trabalhando em um projeto da faculdade **Site de Pizzaria**
+- 🔭 Estou atualmente trabalhando em um projeto da faculdade com o nome de: **Site de Pizzaria**
 
 - 🌱 Estou aprendendo atualmente sobre: **SAP, Banco de Dados (MySql), Kali Linux (Hacker), Desenvolvimento Web, etc.**
 
