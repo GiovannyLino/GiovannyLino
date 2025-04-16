@@ -1,5 +1,4 @@
-<h1 align="center">Bem vindo(a)👋, eu sou o Giovanny</h1>
-<h3 align="center">Estudante de Ciência da Computação, buscando aprimorar constantemente minhas habilidades nesta área de tecnologia.</h3>
+<h1 align="center">🤖 Bem vindo(a)ao meu Github 🖥️</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giovannylino&label=Profile%20views&color=0e75b6&style=flat" alt="giovannylino" /> </p>
 
