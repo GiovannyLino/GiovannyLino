@@ -5,7 +5,7 @@
 
 - 🔭 Trabalhei em um projeto da faculdade com o nome de: **Site de Pizzaria**
 
-- 🌱 Possuo aprendizado sobre: **SAP, Banco de Dados (MySql), Kali Linux (Hacker), Desenvolvimento Web, etc.**
+- 🌱 Possuo aprendizado sobre: **SAP, Banco de dados Oracle SQL e PL/SQL , Oracle APEX, Desenvolvimento Web, comunicaçoes entre microserviços e Modelagem de Dados.**
 
 - 👨‍💻 Todos os meus projetos estao aqui: [https://github.com/GiovannyLino](https://github.com/GiovannyLino)
 
