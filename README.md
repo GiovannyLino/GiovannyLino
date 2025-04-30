@@ -4,11 +4,11 @@
 
 - 🔭 Trabalhei em um projeto da faculdade com o nome de: **Site de Pizzaria**
 
-- 🌱 Possuo aprendizado sobre: **SAP, Banco de dados Oracle SQL e PL/SQL , Oracle APEX, Desenvolvimento Web, comunicaçoes entre microserviços e Modelagem de Dados.**
+- 🌱 Possuo aprendizado sobre: **Desenvolvimento Web, comunicaçoes entre microserviços, Modelagem de Dados, entre outras coisas mais.**
 
 - 👨‍💻 Todos os meus projetos estao aqui: [https://github.com/GiovannyLino](https://github.com/GiovannyLino)
 
-- 📝 Eu costumo colocar algumas conquistas e projetos aqui tambem: [https://www.linkedin.com/in/giovanny-lino-a54660179/](https://www.linkedin.com/in/giovanny-lino-a54660179/)
+- 📝 Eu costumo colocar algumas conquistas e projetos aqui tambem: [https://www.linkedin.com/in/giovanny-lino/](https://www.linkedin.com/in/giovanny-lino-a54660179/)
 
 - 📫 Contate-me: **giovannylino9@gmail.com**
 
