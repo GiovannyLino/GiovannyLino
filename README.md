@@ -1,6 +1,6 @@
 <h1 align="center">🤖 Bem vindo(a) ao meu Github 🖥️</h1>
 
-- 🔭 Trabalhei em um projeto da faculdade com o nome de: **Site de Pizzaria**
+- 🔭 Trabalho em alguns projetos da faculdade e por fora, sempre os coloco aqui!
 
 - 🌱 Possuo aprendizado sobre: **Desenvolvimento Web, comunicaçoes entre microserviços, Modelagem de Dados, entre outras coisas mais.**
 
