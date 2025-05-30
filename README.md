@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  🔭 Estudante apaixonado por desenvolvimento web<br/>
+  🔭 Estudante focado em desenvolvimento web<br/>
   🌱 Atualmente aprendendo novas tecnologias e construindo projetos acadêmicos e pessoais<br/>
 </p>
 
