@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  🔭 Estudante focado em desenvolvimento web<br/>
-  🌱 Atualmente aprendendo novas tecnologias e construindo projetos acadêmicos e pessoais<br/>
+  🔭 Estudante focado em desenvolvimento web 📡<br/>
+  🖥️ Atualmente aprendendo novas tecnologias e construindo projetos acadêmicos e pessoais 🖥️<br/>
 </p>
 
 ---
