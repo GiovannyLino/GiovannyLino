@@ -9,7 +9,7 @@
 
 ---
 
-### 🚀 Sobre mim
+### 👤 Sobre mim
 
 - 💼 Trabalho em projetos acadêmicos e pessoais voltados para o Desenvolvimento Web e FullStack.
 - 🧠 Tenho conhecimentos em **Desenvolvimento Web**, **Comunicação entre Microserviços**, **Modelagem de Dados**, e mais.
