@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  🔭 Estudante apaixonado por desenvolvimento web e microserviços<br/>
+  🔭 Estudante apaixonado por desenvolvimento web<br/>
   🌱 Atualmente aprendendo novas tecnologias e construindo projetos acadêmicos e pessoais<br/>
 </p>
 
@@ -11,7 +11,7 @@
 
 ### 🚀 Sobre mim
 
-- 💼 Trabalho em projetos acadêmicos e pessoais voltados para o desenvolvimento full stack.
+- 💼 Trabalho em projetos acadêmicos e pessoais voltados para o Desenvolvimento Web e FullStack.
 - 🧠 Tenho conhecimentos em **Desenvolvimento Web**, **Comunicação entre Microserviços**, **Modelagem de Dados**, e mais.
 - 📁 Veja todos os meus repositórios em: [github.com/GiovannyLino](https://github.com/GiovannyLino)
 - 💬 Compartilho conquistas e conexões no [LinkedIn](https://www.linkedin.com/in/giovanny-lino-a54660179/)
@@ -47,6 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
 </p>
 
