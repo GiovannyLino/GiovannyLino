@@ -47,7 +47,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
 </p>
 
 ---
@@ -55,7 +56,16 @@
 ### 📊 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannyLino&layout=compact&langs_count=8&theme=radical" alt="Top Languages">
+  <!-- Linguagens mais usadas -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannyLino&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+  
+  <!-- Estatísticas gerais -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GiovannyLino&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- Streak de contribuições -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiovannyLino&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
