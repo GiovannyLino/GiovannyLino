@@ -1,7 +1,7 @@
 <h1 align="center">🎯 Giovanny Lino - Desenvolvedor Web</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/94729645/209692263-26cfa917-9279-4fd8-9a94-171e7f71b8fa.png" width="700" alt="banner 3D">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Giovanny+Lino" alt="Typing SVG" />
 </p>
 
 <p align="center">
