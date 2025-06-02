@@ -75,7 +75,7 @@
 
 <p align="center">
   <!-- Linguagens mais usadas -->
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannyLino&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+  <img width="36,8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannyLino&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
   
   <!-- Estatísticas gerais -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GiovannyLino&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
