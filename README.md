@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Giovanny+Lino;Desenvolvedor+Web+%2F+Full+Stack" alt="Typing SVG Matrix Style" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Giovanny+Lino;Desenvolvedor+Web" alt="Typing SVG Matrix Style" />
 </p>
 
 <p align="center">
