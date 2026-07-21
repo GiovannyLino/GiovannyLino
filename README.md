@@ -11,7 +11,7 @@
 
 ### 👤 Sobre mim
 
-- 🎓 Estudante de **Ciência da Computação** (modalidade EAD pela USCS).
+- 🎓 Estudante de **Ciência da Computação** (modalidade presencial pela USCS).
 - 💼 Desenvolvo projetos e Provas de Conceito (PoC), com experiência prática em customização de plataformas de visualização de dados como **Metabase**.
 - 🧠 Possuo conhecimentos sólidos em **Desenvolvimento Frontend (React e Angular)**, **Comunicação entre Microserviços** e **Modelagem de Dados**.
 - ☁️ Tenho vivência com **Cloud Computing (AWS e Azure)**, incluindo planejamento de estabilização de sistemas em nuvem, e práticas de **DevOps** utilizando **Docker**, **Podman** e **Ansible**.
