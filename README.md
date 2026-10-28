@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E5A0&center=true&vCenter=true&width=640&lines=Analista+de+Service+Provider+%40+Logicalis;DevOps+%E2%80%A2+SRE+%E2%80%A2+Infrastructure+as+Code;Ansible+%7C+Terraform+%7C+Docker+%7C+Podman+%7C+K8s;Observabilidade%3A+Splunk+%2B+ThousandEyes;%24+ansible-playbook+automatiza-tudo.yml" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E5A0&center=true&vCenter=true&width=640&lines=Analista+de+Service+Provider+%40+Logicalis;DevOps+%E2%80%A2+SRE+%E2%80%A2+Infrastructure+as+Code;Ansible+%7C+Terraform+%7C+Docker+%7C+Podman+%7C+K8s;Observabilidade%3A+Splunk+%2B+ThousandEyes;IA+no+fluxo%3A+Claude+Code+%E2%80%A2+Codex+%E2%80%A2+Gemini+%E2%80%A2+MCP;%24+ansible-playbook+automatiza-tudo.yml" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -37,6 +37,10 @@ spec:
   mission: "automatizar o repetitivo e tornar sistemas confiáveis e observáveis"
   focus: [infrastructure-as-code, observability, reliability, ci-cd]
   domain: [telecom, service-provider, network-automation]
+  ai:
+    agents: [claude-code, codex, gemini]
+    mcp: [supabase, vercel, netlify, google-drive]
+    practices: [spec-driven-development, human-in-the-loop, aiops]
   education:
     - Bacharelado em Ciência da Computação @ USCS   # 2024–2028, presencial
     - Técnico em Mecatrônica @ SENAI                # 2019–2021
@@ -92,7 +96,6 @@ status:
       <img src="https://img.shields.io/badge/ThousandEyes-049FD9?style=for-the-badge" alt="ThousandEyes" />
       <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" alt="Metabase" />
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge" alt="Power BI" />
-      <img src="https://img.shields.io/badge/AIOps-Cisco_Black_Belt-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="AIOps" />
     </td>
   </tr>
   <tr>
@@ -108,6 +111,17 @@ status:
     <td align="center"><b>💻 Desenvolvimento</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,vite,tailwind" alt="Node.js, TypeScript, JavaScript, React, Vite, Tailwind" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🤖 IA & LLMs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+      <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge" alt="Codex" />
+      <img src="https://img.shields.io/badge/Gemini-1A73E8?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+      <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-30363D?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
+      <img src="https://img.shields.io/badge/AIOps-Cisco_Black_Belt-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="AIOps" /><br/>
+      <code>Agentes de código</code> <code>Tool use</code> <code>Prompt engineering</code> <code>Spec-driven development</code> <code>Memória entre sessões</code> <code>Human-in-the-loop</code> <code>Correlação de eventos</code>
     </td>
   </tr>
   <tr>
@@ -213,7 +227,9 @@ Base operacional migrada de planilhas para Aurora PostgreSQL, com conectividade 
 
 Cockpit de pré-vendas: gestão de conhecimento, agendamento de laboratórios e *discovery notes*. Regras de acesso no próprio banco com **RLS**, testes com Vitest + Playwright e deploy contínuo.
 
-`React 19` `TypeScript` `Tailwind` `Supabase` `RLS` `Vercel`
+🤖 Construído com **Claude Code** em fluxo *spec-driven*, com checkpoints de revisão humana.
+
+`React 19` `TypeScript` `Tailwind` `Supabase` `RLS` `Vercel` `Claude Code`
 
 </td>
   </tr>
@@ -237,7 +253,67 @@ Site pessoal com i18n (PT · EN · ES), tema claro/escuro e navegação por abas
 
 </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+**🤖 Robô LPU** &nbsp;<sub>🔒 interno</sub>
+
+Robô que percorre todos os fornecedores de um portal interno (de A a Z), exporta a LPU de quem tem e consolida tudo numa planilha única — com retomada de onde parou e diagnóstico automático em caso de falha.
+
+🤖 Desenvolvido com **Claude Code** a partir de um prompt-especificação escrito antes do código.
+
+`Python` `Playwright` `Excel` `Claude Code`
+
+</td>
+    <td width="50%" valign="top">
+
+**🔐 Robô CCW** &nbsp;<sub>🚧 em andamento</sub>
+
+Automação no Cisco Commerce. O MFA não é contornado: o login é humano e o robô reaproveita a sessão. Em paralelo, avaliação das APIs oficiais da Cisco (OAuth 2.0) como caminho definitivo.
+
+🤖 **Claude Code** com memória entre sessões: partiu do que foi aprendido no Robô LPU.
+
+`Python` `Playwright` `OAuth 2.0` `Claude Code`
+
+</td>
+  </tr>
 </table>
+
+## 🤖 IA no meu fluxo de trabalho
+
+Uso LLMs como **par de engenharia**, não como piloto automático: eu defino escopo e arquitetura, o agente (**Claude Code**, **Codex** ou **Gemini**) acelera a implementação usando ferramentas reais — terminal, testes e serviços via **MCP** — e nada vai para produção sem revisão e testes. No TelcoForge, o fluxo foi este:
+
+```mermaid
+flowchart LR
+    SPEC["📝 PLAN.md<br/>arquitetura · fases"]
+    AG["🤖 Claude Code<br/>implementa por fase"]
+    QA["✅ Testes<br/>Vitest · Playwright"]
+    CK{"🧑‍💻 Checkpoint<br/>revisão humana"}
+    DEP["🚀 Deploy<br/>Vercel"]
+    LOG[("📒 DECISIONS.md<br/>PROGRESS.md")]
+
+    SPEC --> AG --> QA --> CK
+    CK -->|ajustes| AG
+    CK -->|aprovado| DEP
+    AG -.->|registra| LOG
+
+    classDef sot fill:#0B3D5C,stroke:#00B4D8,stroke-width:2px,color:#FFFFFF
+    classDef auto fill:#063D33,stroke:#00E5A0,stroke-width:2px,color:#FFFFFF
+    classDef run fill:#161B22,stroke:#8B949E,stroke-width:1px,color:#FFFFFF
+    class SPEC,LOG sot
+    class AG,QA auto
+    class CK,DEP run
+```
+
+| Onde | Ferramenta | Como a IA entrou |
+|---|---|---|
+| 🛰️ [TelcoForge](https://github.com/GiovannyLino/TelcoForje) | Claude Code | Agente implementou as 6 fases a partir de um plano escrito, registrando decisões e progresso no repositório. Aprovação humana antes de aplicar RLS/Storage e antes da publicação; 11 testes unitários + 3 fluxos E2E como critério de aceite |
+| 🤖 Robô LPU | Claude Code | Especificação escrita como prompt estruturado; o agente implementou, depurou com o diagnóstico salvo pelo próprio robô e validou a lógica numa página simulada em 3 cenários antes da execução real |
+| 🔐 Robô CCW | Claude Code | Memória persistente do agente levou o contexto do Robô LPU para o novo projeto. O agente pesquisou o fluxo de login (OIDC + MFA) e os requisitos das APIs oficiais; a decisão de não automatizar o MFA foi registrada como regra do projeto |
+| 🔌 Integrações | MCP | Conectores MCP para **Supabase**, **Vercel**, **Netlify** e **Google Drive**, que dão ao agente acesso direto a banco, deploys e documentos sem sair da sessão |
+| 📈 Observabilidade | AIOps | Certificação Cisco Black Belt AIOps: correlação de eventos, detecção de anomalias e redução de ruído de alertas |
+
+**Regras que sigo:** escopo antes do código · revisão humana antes de mudanças sensíveis (segurança, deploy) · testes como critério de aceite · controles de segurança como MFA nunca são contornados pela automação.
 
 ## 🏅 Certificações
 
