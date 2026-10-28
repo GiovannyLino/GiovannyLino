@@ -15,12 +15,12 @@
 </p>
 
 <p align="center">
-  📍 Santo André, SP — Brasil &nbsp;•&nbsp; 🏢 Logicalis &nbsp;•&nbsp; 🎯 Rumo a <b>Engenheiro DevOps / SRE</b>
+  📍 São Paulo, SP — Brasil &nbsp;•&nbsp; 🎯 Rumo a <b>Engenheiro DevOps / SRE</b>
 </p>
 
 ## 👨‍💻 Sobre mim
 
-Analista de **Service Provider na Logicalis** e estudante de **Ciência da Computação (USCS)**. Atuo com **automação de infraestrutura, observabilidade e sustentação de ambientes críticos de operadoras de telecomunicações** — e uso desenvolvimento (Python, Node.js, TypeScript, SQL) para transformar trabalho manual em automação, integrações via API REST e ferramentas internas de operação.
+Analista de **Service Provider** e estudante de **Ciência da Computação (USCS)**. Atuo com **automação de infraestrutura, observabilidade e sustentação de ambientes críticos de operadoras de telecomunicações** — e uso desenvolvimento (Python, Node.js, TypeScript, SQL) para transformar trabalho manual em automação, integrações via API REST e ferramentas internas de operação.
 
 ```yaml
 # $ kubectl get engineer giovanny-lino -o yaml
@@ -28,11 +28,10 @@ apiVersion: careers.dev/v1
 kind: Engineer
 metadata:
   name: giovanny-lino
-  namespace: logicalis
   labels:
     role: service-provider-analyst
     track: devops-sre
-    region: santo-andre-sp-br
+    region: sao-paulo-sp-br
 spec:
   mission: "automatizar o repetitivo e tornar sistemas confiáveis e observáveis"
   focus: [infrastructure-as-code, observability, reliability, ci-cd]
@@ -45,7 +44,7 @@ spec:
     - Bacharelado em Ciência da Computação @ USCS   # 2024–2028, presencial
     - Técnico em Mecatrônica @ SENAI                # 2019–2021
   languages: { pt: nativo, en: avançado, es: intermediário, fr: básico }
-  sideQuests: [minecraft]
+  sideQuests: [Elden Ring]
 status:
   phase: Running
   conditions:
